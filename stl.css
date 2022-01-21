@@ -1,0 +1,63 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 10px;
+}
+.parent2{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    padding-left: 248px;
+    padding-right: 248px;
+}
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: #555;
+}
+#red{
+    background: red;
+}
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#black{
+    color: aliceblue;
+    background: black;
+}
+#yellow{
+    background: yellow;
+}
+#brown{
+    background: brown;
+}
+#darkgoldenrod{
+    background:darkgoldenrod;
+}
+#coral{
+    background:coral;
+}
+#cadetblue{
+    background:cadetblue;
+}
+#darkmagenta{
+    background:darkmagenta;
+}
+#deeppink{
+    background:deeppink;
+}
+#salmon{
+    background:salmon;
+}
+#orchid{
+    background:orchid;
+}
+#turquoise{
+    background:turquoise;
+}
